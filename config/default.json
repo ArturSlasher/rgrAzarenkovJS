@@ -1,5 +1,5 @@
 {
     "port": 8000,
-    "jwtSecret": "passManagerVaysberg",
-    "mongoUri": "mongodb+srv://vaysberg:qazwsxedc@cluster0.tsapp.mongodb.net/passManager?retryWrites=true&w=majority"
+    "jwtSecret": "BankManager",
+    "mongoUri": "mongodb+srv://Arturchik:artur4mongodb@bankmanager.yt6el.mongodb.net/bankmanager?retryWrites=true&w=majority"
 }
